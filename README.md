@@ -32,6 +32,7 @@ Di dalam setiap class terdapat "Setter" dan "Getter". User dapat melakukan input
 ![Java(1)](https://user-images.githubusercontent.com/99194983/154835150-b3cc505f-83e5-40a7-892e-b9c1a2b3e196.png)
 ![Java(2)](https://user-images.githubusercontent.com/99194983/154835167-ca848aae-7cd1-4661-9974-9c06688a65d6.png)
 ### PHP
+![PHP](https://user-images.githubusercontent.com/99194983/154835419-a61b28ed-802d-4913-8831-fc85517563ba.png)
 ### C++
 ![C++(1)](https://user-images.githubusercontent.com/99194983/154835181-cd974826-35db-4c66-8cec-bf5b26adad11.png)
 ![C++(2)](https://user-images.githubusercontent.com/99194983/154835190-0e91cf91-7b77-4b5e-9064-6233648177bb.png)

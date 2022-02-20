@@ -9,12 +9,15 @@
 Saya Satria Pinandita Abyatarsyah mengerjakan evaluasi Latihan 2 Tugas Praktikum dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Analisis Desain
+### Product
 Sebuah kelas "Product" dengan atribut:
 1. ID Product
 2. Price
+### Hardware
 Sebuah kelas "Hardware" yang merupakan inheritance dari kelas "Product" dengan atribut:
 1. Brand
 2. Model
+### Memory
 Sebuah kelas "Memory" yang merupakan inheritance dari kelas "Hardware" dengan atribut:
 1. Frequency
 2. Memory Size

@@ -23,6 +23,6 @@ Sebuah kelas "Memory" yang merupakan inheritance dari kelas "Hardware" dengan at
 2. Memory Size
 3. Supports Cuda
 ### Kesimpulan
-Dengan demikian desain kelas dari program ini adalah Multilevels Inheritance dengan skema sebagai berikut: --
+Dengan demikian desain kelas dari program ini adalah Multilevels Inheritance dengan skema sebagai berikut: \
 Product <-- Hardware <-- Memory. --
 Lalu di dalam class dibuat lah "Setter" dan "Getter". Dalam main/index terdapat input user untuk "Jumlah Tim" dan "Jumlah Pemain". Lalu input data Tim dilakukan sebanyak "Jumlah Tim" dan untuk data "Nama Pemain" diinput sebanyak "Jumlah Pemain". Lalu dipanggil Setter untuk setiap data yang sudah diinput. Untuk output digunakan Getter
